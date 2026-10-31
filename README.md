@@ -353,7 +353,7 @@ The sysmoISIM-SJA2 SIM Cards are perfect to learn about applets and how to remot
 | KIC3 | KID3 |  |  |
 
 <figure>
-<img width="1022" height="638" alt="34" src="https://github.com/user-attachments/assets/5598ec20-1b3a-4236-99d6-11ac20c39165" /><br />
+  <img width="1079" height="1180" alt="qwdqwd" src="https://github.com/user-attachments/assets/48aa632a-bdb6-4272-a843-64b4a82ab14a" />
 <figcaption>Figure 33 - Some sysmoISIM-SJA2 SIM Cards.</figcaption></figure>
 <br />
 <br />
